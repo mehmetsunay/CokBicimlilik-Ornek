@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\bin\Debug\ConsoleAppCokBicimililik.exe.config
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\bin\Debug\ConsoleAppCokBicimililik.exe
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\bin\Debug\ConsoleAppCokBicimililik.pdb
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\obj\Debug\ConsoleAppCokBicimililik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\obj\Debug\ConsoleAppCokBicimililik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\obj\Debug\ConsoleAppCokBicimililik.exe
+C:\Users\User\source\repos\CSHARP2\ConsoleAppCokBicimililik\obj\Debug\ConsoleAppCokBicimililik.pdb
